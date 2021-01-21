@@ -6,4 +6,4 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing guitar 🎸🎸🎸
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/apipipe2442anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![pipe2442 github stats](https://github-readme-stats.vercel.app/api?username=pipe2442)](https://github.com/pipe2442/github-readme-stats)
