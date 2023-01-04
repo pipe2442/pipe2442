@@ -7,6 +7,3 @@
 - ⚡ Fun fact: I love guitar and I'm a frustrated soccer player. 🎸⚽🎸⚽🎸
 - 🚀 Skills: Html - Css - Bootstrap - Sass - Ruby - RoR - Javascript - React - Redux - Git - Sql. 💻💻💻
 - 😎 I'm a fast learner and I'm not afraid of new challenges - Play hard or go home. ⚡💪
-
-![pipe2442 github stats](https://github-readme-stats.vercel.app/api?username=pipe2442&show_icons=true&theme=highcontrast)
-
